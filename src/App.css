@@ -1,0 +1,33 @@
+.App {
+  display: flex;
+  padding-top: 50px;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  margin: 20px;
+  width: 50%;
+}
+
+.shiv {
+  width: 73%;
+  margin-left: 5px;
+}
+.search {
+  width: 24%;
+  margin-top: 100px;
+  margin: auto;
+}
+
+img {
+  padding-top: 10px;
+  padding-left: 10px;
+  border-radius: 50%;
+  margin: auto;
+}
+
+.shivam {
+  display: flex;
+  flex-direction: column;
+}
